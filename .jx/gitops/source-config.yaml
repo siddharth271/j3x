@@ -9,6 +9,7 @@ spec:
     providerKind: github
     repositories:
     - name: j3x-test
+    - name: test-j3x
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
