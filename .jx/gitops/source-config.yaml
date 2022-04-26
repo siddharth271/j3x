@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: golang-j3x
     - name: j3x-test
     - name: test-j3x
     scheduler: in-repo
